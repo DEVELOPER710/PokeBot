@@ -1,67 +1,44 @@
-# Markdown syntax guide
+# PokeBot Home Page
 
-## Headers
 
-# This is a Heading h1
-## This is a Heading h2 
-###### This is a Heading h6
+## Maintainer: DEVELOPER710
 
-## Emphasis
+The prefix for the bot is `@PokeBot#6880 `, but the bot also supports Slash Commands.
 
-*This text will be italic*  
-_This will also be italic_
 
-**This text will be bold**  
-__This will also be bold__
+## Invite Link
 
-_You **can** combine them_
+[Click here](https://discord.com/api/oauth2/authorize?client_id=1009419977163550771&permissions=414464859201&redirect_uri=https%3A%2F%2FDEVELOPER710.github.io%2FPokeBot&response_type=code&scope=guilds%20bot%20applications.commands) to add the bot to your Discord Server.
 
-## Lists
 
-### Unordered
+## Starting the Journey
 
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
+#### Select an IGN for yourself with `/ign`.
+#### Then, select a starter pokemon with `/start`.
 
-### Ordered
 
-1. Item 1
-1. Item 2
-1. Item 3
-  1. Item 3a
-  1. Item 3b
+## General Commands
 
-## Images
+`/info` shows information about the bot.
 
-![This is a alt text.](/image/sample.png "This is a sample image.")
+`/ping` shows Bot Latency.
 
-## Links
+`/invite` gives the invite link of the bot.
 
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+`/weak` shows weakness of all pokemon types.
 
-## Blockquotes
 
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+## Catching Pokemons
 
-## Tables
+Pokemons can be caught with `/spawn`.
 
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+To view all your pokemons, use `/storage`.
 
-## Blocks of code
+To view any user's last caught pokemon, use `/last`.
 
-```
-let message = 'Hello world';
-alert(message);
-```
 
-## Inline code
+## Voting Rewards
 
-This web site is using `markedjs/marked`.
+`/vote` gives the Vote Links for the bot (Top.gg and DBL)
+
+`/claim_vote_rewards` allows the user to claim rewards after voting for the bot.
